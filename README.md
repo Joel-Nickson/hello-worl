@@ -1,7 +1,7 @@
-# hello-worl
+# hello-world
 
 
 
-hello i am joel.I like java,python, c and I am currently learning machine learning as well..
+hello i am joel.I like java,python,go,c,html,css  and I am currently learning machine learning and django as well..
 
-And by the way... nice to meet you
+I thank my Lord for the knowledge I have gained
