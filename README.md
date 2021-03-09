@@ -4,6 +4,10 @@
 
 hello i am joel.I like java,python,go,c,html,css  and I am currently learning machine learning and django as well..
 
+
+
+## Keep reminding
+
 God is the source of wisdom
 
 Learn from others and help others
